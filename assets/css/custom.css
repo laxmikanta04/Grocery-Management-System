@@ -1,0 +1,35 @@
+body {
+    background: #f4f6f9;
+}
+
+.brand-link {
+    background: linear-gradient(135deg, #1f2d3d, #2d4c6a);
+    color: #fff !important;
+    text-decoration: none;
+    padding: 0.8rem 1rem;
+}
+
+.main-sidebar {
+    background: #1f2d3d;
+}
+
+.card {
+    border: 1px solid rgba(0,0,0,0.06);
+    box-shadow: 0 0.15rem 1.75rem rgba(31, 45, 61, 0.08);
+}
+
+.small-box {
+    border-radius: 0.8rem;
+}
+
+.table thead th {
+    background: #f8f9fa;
+}
+
+.form-control, .form-select {
+    border-radius: 0.5rem;
+}
+
+.alert {
+    border-radius: 0.75rem;
+}
